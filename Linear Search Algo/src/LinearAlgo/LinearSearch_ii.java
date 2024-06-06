@@ -18,3 +18,4 @@ public class LinearSearch_ii {
         return false;
     }
 }
+//if(target == str.toCharAt(i))
